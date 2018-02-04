@@ -1,2 +1,1 @@
-# acync_SMA
-# async_cex
+add api keys to keys.py to start
